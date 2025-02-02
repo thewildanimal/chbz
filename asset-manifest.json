@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://thewildanimal.github.io/chbz/static/css/main.08db5253.css",
+    "main.js": "https://thewildanimal.github.io/chbz/static/js/main.7e798dd4.js",
+    "static/js/453.4ddb1453.chunk.js": "https://thewildanimal.github.io/chbz/static/js/453.4ddb1453.chunk.js",
+    "index.html": "https://thewildanimal.github.io/chbz/index.html",
+    "main.08db5253.css.map": "https://thewildanimal.github.io/chbz/static/css/main.08db5253.css.map",
+    "main.7e798dd4.js.map": "https://thewildanimal.github.io/chbz/static/js/main.7e798dd4.js.map",
+    "453.4ddb1453.chunk.js.map": "https://thewildanimal.github.io/chbz/static/js/453.4ddb1453.chunk.js.map"
+  },
+  "entrypoints": [
+    "https://thewildanimal.github.io/chbz/static/css/main.08db5253.css",
+    "https://thewildanimal.github.io/chbz/static/js/main.7e798dd4.js"
+  ]
+}
